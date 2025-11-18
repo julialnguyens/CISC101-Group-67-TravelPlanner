@@ -1,3 +1,6 @@
+> Change Log (2025-11-17): 
+   > – Updated dietary rule to suggest vegan and diet-friendly restaurants only if user is vegan or has dietary restrictions
+   
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -28,7 +31,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 7. **Dietary Needs**
    
-   - If user is vegan or has dietary constraints → ensure all meals match or swap with compliant ones.
+   - If user is vegan or has dietary constraints → choose vegan restaurants or diet-friendly restaurants only
 
 8. **Bookings**
    
